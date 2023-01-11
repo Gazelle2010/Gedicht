@@ -2,6 +2,9 @@
 Farbpalette
 
 Rot
+Hellrot 
+Dunkelrot
+Bordeauxrot
 Grün
 Blau
 Hellblau
